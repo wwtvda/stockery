@@ -1,0 +1,253 @@
+{"products" : [{
+  "id": 1,
+  "product_name": "Rice - Brown",
+  "price": "Dollar",
+  "stock": 20
+}, {
+  "id": 2,
+  "product_name": "Pasta - Shells, Medium, Dry",
+  "price": "Peso",
+  "stock": 10
+}, {
+  "id": 3,
+  "product_name": "Chervil - Fresh",
+  "price": "Yuan Renminbi",
+  "stock": 82
+}, {
+  "id": 4,
+  "product_name": "Sea Urchin",
+  "price": "Peso",
+  "stock": 7
+}, {
+  "id": 5,
+  "product_name": "Clam Nectar",
+  "price": "Peso",
+  "stock": 79
+}, {
+  "id": 6,
+  "product_name": "Beer - Labatt Blue",
+  "price": "Rupiah",
+  "stock": 66
+}, {
+  "id": 7,
+  "product_name": "Artichoke - Bottom, Canned",
+  "price": "Shekel",
+  "stock": 2
+}, {
+  "id": 8,
+  "product_name": "Artichokes - Knobless, White",
+  "price": "Yuan Renminbi",
+  "stock": 12
+}, {
+  "id": 9,
+  "product_name": "Table Cloth 54x72 White",
+  "price": "Peso",
+  "stock": 63
+}, {
+  "id": 10,
+  "product_name": "Roe - Flying Fish",
+  "price": "Manat",
+  "stock": 96
+}, {
+  "id": 11,
+  "product_name": "Pomello",
+  "price": "Afghani",
+  "stock": 11
+}, {
+  "id": 12,
+  "product_name": "Filter - Coffee",
+  "price": "Ruble",
+  "stock": 13
+}, {
+  "id": 13,
+  "product_name": "Glass Clear 7 Oz Xl",
+  "price": "Leone",
+  "stock": 13
+}, {
+  "id": 14,
+  "product_name": "Latex Rubber Gloves Size 9",
+  "price": "Yuan Renminbi",
+  "stock": 83
+}, {
+  "id": 15,
+  "product_name": "Cheese - La Sauvagine",
+  "price": "Yuan Renminbi",
+  "stock": 90
+}, {
+  "id": 16,
+  "product_name": "Shallots",
+  "price": "Rupiah",
+  "stock": 44
+}, {
+  "id": 17,
+  "product_name": "Turkey - Breast, Bone - In",
+  "price": "Peso",
+  "stock": 67
+}, {
+  "id": 18,
+  "product_name": "Bread - Roll, Whole Wheat",
+  "price": "Koruna",
+  "stock": 80
+}, {
+  "id": 19,
+  "product_name": "Cinnamon - Stick",
+  "price": "Euro",
+  "stock": 5
+}, {
+  "id": 20,
+  "product_name": "Noodles - Steamed Chow Mein",
+  "price": "Real",
+  "stock": 1
+}, {
+  "id": 21,
+  "product_name": "Hot Choc Vending",
+  "price": "Krona",
+  "stock": 2
+}, {
+  "id": 22,
+  "product_name": "Nantucket - Kiwi Berry Cktl.",
+  "price": "Krona",
+  "stock": 12
+}, {
+  "id": 23,
+  "product_name": "Towel - Roll White",
+  "price": "Rupiah",
+  "stock": 86
+}, {
+  "id": 24,
+  "product_name": "Roe - Lump Fish, Black",
+  "price": "Quetzal",
+  "stock": 89
+}, {
+  "id": 25,
+  "product_name": "Schnappes - Peach, Walkers",
+  "price": "Ringgit",
+  "stock": 17
+}, {
+  "id": 26,
+  "product_name": "Pork - Bacon Cooked Slcd",
+  "price": "Real",
+  "stock": 17
+}, {
+  "id": 27,
+  "product_name": "Dr. Pepper - 355ml",
+  "price": "Rupiah",
+  "stock": 19
+}, {
+  "id": 28,
+  "product_name": "Cheese - Cheddar, Medium",
+  "price": "Dong",
+  "stock": 86
+}, {
+  "id": 29,
+  "product_name": "Vinegar - White Wine",
+  "price": "Riels",
+  "stock": 22
+}, {
+  "id": 30,
+  "product_name": "Tray - 12in Rnd Blk",
+  "price": "Zloty",
+  "stock": 51
+}, {
+  "id": 31,
+  "product_name": "Bread - Kimel Stick Poly",
+  "price": "Dollar",
+  "stock": 10
+}, {
+  "id": 32,
+  "product_name": "Initation Crab Meat",
+  "price": "Dollar",
+  "stock": 64
+}, {
+  "id": 33,
+  "product_name": "Jagermeister",
+  "price": "Euro",
+  "stock": 23
+}, {
+  "id": 34,
+  "product_name": "Muffin Mix - Carrot",
+  "price": "Somoni",
+  "stock": 54
+}, {
+  "id": 35,
+  "product_name": "Duck - Fat",
+  "price": "Rupee",
+  "stock": 16
+}, {
+  "id": 36,
+  "product_name": "Carbonated Water - White Grape",
+  "price": "Gourde",
+  "stock": 21
+}, {
+  "id": 37,
+  "product_name": "Contreau",
+  "price": "Yuan Renminbi",
+  "stock": 47
+}, {
+  "id": 38,
+  "product_name": "Clam - Cherrystone",
+  "price": "Rupiah",
+  "stock": 73
+}, {
+  "id": 39,
+  "product_name": "Tomato Paste",
+  "price": "Yuan Renminbi",
+  "stock": 57
+}, {
+  "id": 40,
+  "product_name": "White Fish - Filets",
+  "price": "Rupiah",
+  "stock": 42
+}, {
+  "id": 41,
+  "product_name": "Bonito Flakes - Toku Katsuo",
+  "price": "Ruble",
+  "stock": 21
+}, {
+  "id": 42,
+  "product_name": "Onions Granulated",
+  "price": "Zloty",
+  "stock": 61
+}, {
+  "id": 43,
+  "product_name": "Hummus - Spread",
+  "price": "Peso",
+  "stock": 68
+}, {
+  "id": 44,
+  "product_name": "Oil - Olive",
+  "price": "Yuan Renminbi",
+  "stock": 75
+}, {
+  "id": 45,
+  "product_name": "Vodka - Moskovskaya",
+  "price": "Dinar",
+  "stock": 34
+}, {
+  "id": 46,
+  "product_name": "Ham - Proscuitto",
+  "price": "Dong",
+  "stock": 71
+}, {
+  "id": 47,
+  "product_name": "Longos - Penne With Pesto",
+  "price": "Dinar",
+  "stock": 15
+}, {
+  "id": 48,
+  "product_name": "Plastic Arrow Stir Stick",
+  "price": "Ruble",
+  "stock": 87
+}, {
+  "id": 49,
+  "product_name": "Energy Drink - Redbull 355ml",
+  "price": "Dollar",
+  "stock": 15
+}, {
+  "id": 50,
+  "product_name": "Heavy Duty Dust Pan",
+  "price": "Yen",
+  "stock": 9
+}]
+
+}
